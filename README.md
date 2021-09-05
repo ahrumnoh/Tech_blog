@@ -26,9 +26,18 @@ To build a fun tech-blog which provides a community for engineers to share their
  🎇 HomePage Shot
 
 ![Homepage](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/homepage.png?raw=true)
+
+🎇 Login_page Shot
+
 ![Login](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/loginpage.png?raw=true)
+
+🎇 Post_page shot
+
 ![Post](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/createpost.png?raw=true)
-![Login](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/comments_page.png?raw=true)
+
+🎇 Comments shot
+
+![Comments](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/comments_page.png?raw=true)
 
 
 
