@@ -1,31 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&family=Satisfy&display=swap');
+
+
 * {
     box-sizing: border-box;
+    text-align: center;
 }
+
+
   
+div.title {
+    background-color:#423937;
+    height: 35px;
+}
+
+div.meta {
+    background-color: bisque;
+}
+
 body, html {
     height: 100%;
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Lobster Two', cursive;
     color: #333;
 }
   
+.wrapper {
+    background-image: url("https://source.unsplash.com/2300x2300/?coding");
+}
 a {
     text-decoration: none;
-    color: #225ca3;
+    font-size: 20px;
+    color: #d479b0;
+    text-shadow: 2px 2px 5px rgb(22, 22, 21);
     font-weight: bold;
     transition: color .1s;
 }
   
 a:hover {
-    color: #3486eb;
+    color: #719b0f;
 }
   
 button {
-    background-color: #225ca3;
+    background-color: #f8f407;
     border: 0;
     padding: 1%;
-    color: white;
+    color: rgb(66, 4, 4);
     font-weight: bold;
     transition: background-color .1s;
     cursor: pointer;
@@ -63,6 +83,10 @@ form > div {
   
 form label {
     display: block;
+    color:yellow;
+    text-shadow: 2px 2px 5px rgb(22, 22, 21);
+    padding-bottom: 3%;
+    
  }
   
 .wrapper {
@@ -80,7 +104,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 1%;
-    background-color: #bbdbff;
+    background-color: #313b0360;
 }
   
 header h1 {
@@ -98,7 +122,7 @@ main {
     padding: 10;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: #e92ca1;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -107,7 +131,7 @@ main {
   
 .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: #10fdd6;
 }
   
 .delete-post-btn {
@@ -166,5 +190,25 @@ footer {
     justify-content: center;
     padding: 1%;
     font-size: 110%;
-    background-color: #bbdbff;
+    background-color: #27013096;
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px 5px rgb(22, 22, 21);
+}
+span{
+    color:rgb(37, 37, 34);
+    text-shadow: 2px 2px 5px rgb(252, 252, 5);
+    padding-bottom: 3%;
+}
+
+div {
+    background-color: rgba(245, 222, 179, 0.247);
+}
+a.edit-link {
+    font-size: 25px;
+    color:teal;
+    text-shadow: 2px 2px 5px rgb(245, 245, 239);
 }
