@@ -1,7 +1,7 @@
 {
   "name": "Tech_blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Readme Generator](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/Welcome%20to%20TECh-Blog.jpg?raw=true)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,15 +20,12 @@
   "homepage": "https://github.com/ahrumnoh/Tech_blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "connect-session-sequelize": "^7.1.1",
+    "connect-session-sequelize": "^7.1.2",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.3",
     "express-session": "^1.17.2",
-    "inquirer": "^8.1.2",
     "mysql2": "^2.3.0",
-    "nodemon": "^2.0.12",
     "sequelize": "^6.6.5"
-  },
-  "devDependencies": {}
+  }
 }
