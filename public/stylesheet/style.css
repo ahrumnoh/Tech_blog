@@ -9,12 +9,13 @@
 
   
 div.title {
-    background-color:#423937;
-    height: 35px;
+    background-color:#0505058f;
+    height: 70px;
 }
 
 div.meta {
-    background-color: bisque;
+    background-color: rgba(240, 125, 10, 0.418);
+    height: 60px;
 }
 
 body, html {
@@ -22,19 +23,23 @@ body, html {
     padding: 0;
     margin: 0;
     font-family: 'Lobster Two', cursive;
-    color: #333;
+    color: rgb(247, 242, 242);
 }
   
 .wrapper {
-    background-image: url("https://source.unsplash.com/2300x2300/?coding");
+    background-image: url("https://source.unsplash.com/2300x2300/?peach");
 }
 a {
     text-decoration: none;
-    font-size: 20px;
-    color: #d479b0;
-    text-shadow: 2px 2px 5px rgb(22, 22, 21);
+    margin-top: 3%;
+    padding-top: 5%;
+    font-size: 28px;
+    text-align: justify;
+    color: #f88f04;
     font-weight: bold;
     transition: color .1s;
+    text-shadow: 5px 5px 7px rgb(48, 2, 36);
+
 }
   
 a:hover {
@@ -83,8 +88,9 @@ form > div {
   
 form label {
     display: block;
-    color:yellow;
-    text-shadow: 2px 2px 5px rgb(22, 22, 21);
+    font-size: 25px;
+    color:rgb(240, 54, 110);
+    text-shadow: 2px 2px 5px rgba(5, 252, 190, 0.404);
     padding-bottom: 3%;
     
  }
@@ -108,7 +114,7 @@ header {
 }
   
 header h1 {
-    font-size: 2em;
+    font-size: 50px;
 }  
  
 main {
@@ -195,8 +201,8 @@ footer {
 }
 
 h2 {
-    color: white;
-    text-shadow: 2px 2px 5px rgb(22, 22, 21);
+    color: rgb(53, 182, 41);
+    text-shadow: 2px 2px 5px rgba(216, 8, 243, 0.548);
 }
 span{
     color:rgb(37, 37, 34);
@@ -209,6 +215,7 @@ div {
 }
 a.edit-link {
     font-size: 25px;
-    color:teal;
+    color:rgb(25, 136, 136);
     text-shadow: 2px 2px 5px rgb(245, 245, 239);
 }
+
