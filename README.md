@@ -22,7 +22,7 @@ To build a fun tech-blog which provides a community for engineers to share their
 
  ## 🍑 PEACH TECH-Blog Deplying URL ##
 
- 🍑
+ 🍑 Deployed URL: https://techblogusyd.herokuapp.com/
 
 
 
