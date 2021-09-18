@@ -1,6 +1,6 @@
-# Tech_blog
+🍑PEACH Tech_blog
 
-## ⛅Welcome to 'Tech_blog by AhrumNoh'
+## Welcome to '🍑PEACH Tech_blog by AhrumNoh'
 
 ![Readme Generator](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/Welcome%20to%20TECh-Blog.jpg?raw=true)
 
