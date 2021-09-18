@@ -1,5 +1,3 @@
-🍑PEACH Tech_blog
-
 ## Welcome to '🍑PEACH Tech_blog by AhrumNoh'
 
 ![Readme Generator](https://github.com/ahrumnoh/Tech_blog/blob/main/public/assets/Peach%20Tech%20Blog.gif?raw=true)
