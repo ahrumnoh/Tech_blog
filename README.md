@@ -46,12 +46,6 @@ To build a fun tech-blog which provides a community for engineers to share their
 The user should clone the repository from GitHub and Use the schema.sql file in the db folder to create your database with MySQL shell commands
 
 
-> **⚠ .ENV-Key SetUp .**  
-
-> * Change '.env.EXAMPLE' ---> '.env'
-> * Your details must be put into the file as DB_USER='', DB_PW='' in '.env'file
-
-
 
 > **⚠ .MySQL SETUP.**  
 
