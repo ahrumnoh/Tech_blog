@@ -9,12 +9,12 @@
 
   
 div.title {
-    background-color:#0505058f;
+    background-color:#050505;
     height: 70px;
 }
 
 div.meta {
-    background-color: rgba(240, 125, 10, 0.418);
+    background-color: rgb(240, 125, 10);
     height: 60px;
 }
 
@@ -35,11 +35,10 @@ a {
     padding-top: 5%;
     font-size: 28px;
     text-align: justify;
-    color: #f88f04;
+    color: #04e9a4;
     font-weight: bold;
     transition: color .1s;
-    text-shadow: 5px 5px 7px rgb(48, 2, 36);
-
+    
 }
   
 a:hover {
