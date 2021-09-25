@@ -3,17 +3,17 @@ const { Post } = require('../models');
 const postdata = [
   {
     title: 'Do you know who I am?',
-    post_content: 'https://ahrumnoh.github.io/introahrum/ttps://www.google.com',
+    post_content: 'Hello world',
     user_id: 1
   },
   {
     title: 'This is my github Website',
-    post_content: 'https://github.com/ahrumnoh',
+    post_content: 'Goldenpiggyinvestment',
     user_id: 2
   },
   {
     title: 'I love Software Engineering.',
-    post_content: 'https://github.com/ahrumnoh/Tech_blog',
+    post_content: 'I feel very happy',
     user_id: 1
   },
 ];
